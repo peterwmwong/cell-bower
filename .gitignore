@@ -1,0 +1,10 @@
+# Temp Files #
+##############
+*.swp
+*.DS_Store
+*.js
+*.map
+
+!require.js
+!r.js
+!almond.js
